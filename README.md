@@ -6,7 +6,7 @@
 
 ### Goals 2022
 -  MVP - Move 🌱
-~~-  Enter Platzi Master~~ 😄
+~~- Enter Platzi Master~~ 😄
 -  Reach C1 level 💬
 
 
