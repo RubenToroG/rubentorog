@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MOVE - Smart Staff Management
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I am in Platzi Master Program, as Back-End developer
 - 📫 How to reach me: rubensdt01@gmail.com
 
 ### Goals 2022
