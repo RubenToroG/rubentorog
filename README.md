@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MOVE - Smart Staff Management
-- 🌱 I am in Platzi Master Program, as Back-End developer
+- 🔭 I’m currently working on MOVE - Smart Staff Management - FullStack Developer
+- 🧠 I’m currently learning GraphQL
+- 🌱 Improving my skills in Back-End with TS and Python
 - 📫 How to reach me: rubensdt01@gmail.com
 
 ### Goals 2022
 -  MVP - Move 🌱
-- ~~Enter Platzi Master~~ 😄
+- ~~Enter Platzi Master - Back-End Developer~~ 😄
 -  Reach C1 level 💬
 
 
@@ -16,7 +17,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
