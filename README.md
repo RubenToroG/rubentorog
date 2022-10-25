@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MOVE - Smart Staff Management - FullStack Developer
-- 🧠 I’m currently learning GraphQL
-- 🌱 Improving my skills in Back-End with TS and Python
+- 🔭 I’m currently working as a Data Scientist
+- 🧠 I’m currently learning Machine Learning
+- 🌱 Improving my skills in Python and R
 - 📫 How to reach me: rubensdt01@gmail.com
 
 ### Goals 2022
--  MVP - Move 🌱
+- DS4A - MinTic
+- ~~MVP - Move~~  🌱
 - ~~Enter Platzi Master - Back-End Developer~~ 😄
 -  Reach C1 level 💬
 
