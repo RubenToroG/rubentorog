@@ -5,11 +5,11 @@
 - 🌱 Improving my skills in Python and R
 - 📫 How to reach me: rubensdt01@gmail.com
 
-### Goals 2022
-- DS4A - MinTic
-- ~~MVP - Move~~  🌱
-- ~~Enter Platzi Master - Back-End Developer~~ 😄
--  Reach C1 level 💬
+### Goals 2023
+- Become an expert in R 🌱
+- IA-900 Certification 🌱
+- DP-100 Certification 🌱
+- Reach B2 level 💬
 
 
 <!--
