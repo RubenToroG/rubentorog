@@ -8,7 +8,7 @@
 ### Goals 2023
 - Become an expert in R 🌱
 - ~~AZ-900 Certification 🌱~~
-- DP-900 Certification 🌱
+- ~~DP-900 Certification 🌱~~
 - AI-900 Certification 🌱
 - DP-100 Certification 🌱
 - Reach B2 level 💬
