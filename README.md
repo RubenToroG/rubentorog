@@ -2,15 +2,14 @@
 
 - 🔭 I’m currently working as a Data Scientist
 - 🧠 I’m currently learning Machine Learning
-- 🌱 Improving my skills in Python and R
+- 🌱 Improving my skills in Python
 - 📫 How to reach me: rubens_d_t@hotmail.com
 
 ### Goals 2023
-- Become an expert in R 🌱
 - ~~AZ-900 Certification 🌱~~
 - ~~DP-900 Certification 🌱~~
-- AI-900 Certification 🌱
-- DP-100 Certification 🌱
+- ~~AI-900 Certification 🌱~~
+- DP-203 Certification - Azure Data Engineer Associate 🌱
 - Reach B2 level 💬
 
 
