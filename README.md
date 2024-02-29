@@ -5,19 +5,17 @@
 - 🌱 Improving my skills in Python
 - 📫 How to reach me: rubens_d_t@hotmail.com
 
-### Goals 2023
+### My short term goals
 - ~~AZ-900 Certification 🌱~~
 - ~~DP-900 Certification 🌱~~
 - ~~AI-900 Certification 🌱~~
 - DP-203 Certification - Azure Data Engineer Associate 🌱
-- Reach B2 level 💬
+- Reach B2 level 💬 
+
+
 
 
 <!--
-**RubenToroG/rubentorog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱  ...
 - 👯 I’m looking to collaborate on ...
